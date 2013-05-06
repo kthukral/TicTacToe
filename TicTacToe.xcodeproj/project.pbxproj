@@ -117,9 +117,9 @@
 		9ECF03221728B82A00E78AD9 /* PNG Versions */ = {
 			isa = PBXGroup;
 			children = (
+				9ECF03251728B82A00E78AD9 /* X image.png */,
 				9E8300431728BB7B003F3056 /* Game Board1.png */,
 				9ECF03241728B82A00E78AD9 /* O Image.png */,
-				9ECF03251728B82A00E78AD9 /* X image.png */,
 			);
 			path = "PNG Versions";
 			sourceTree = "<group>";
